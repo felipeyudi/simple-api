@@ -1,0 +1,14 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "um ateway para pagamento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Ono",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
